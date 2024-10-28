@@ -1,0 +1,24 @@
+{
+  "name": "collectionrunner",
+  "version": "1.0.0",
+  "description": "A library to run Postman collections with automated Telegram reports",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["Postman", "Telegram", "testing", "newman", "automation"],
+  "author": "Your Name",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "form-data": "^4.0.1",
+    "fs": "^0.0.1-security",
+    "minimist": "^1.2.8",
+    "newman": "^6.2.1",
+    "node-fetch": "^2.6.7"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/orewacoder/collection_ruiner"
+  }
+}
